@@ -1,4 +1,4 @@
-#List in Python:
+# List in Python:
   
   1)	It is a collection which is ordered and changeable.
   2)	It is used to store different data type values in it.
