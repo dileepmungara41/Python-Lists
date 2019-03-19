@@ -20,7 +20,7 @@ String: [‘Varun’,’Dileep’,’Vijay’,’Naresh’]
     Int : [1]
  Float: [2.0,3.43]
 
-Note: you can add other data type values also like Boolean, decimal
+Note:  you can add other data type values also like Boolean, decimal
 
 “ A list may contain duplicate values with their distinct positions and hence, multiple distinct or duplicate values can be passed as a sequence at the time of list creation. “
 
