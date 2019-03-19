@@ -1,4 +1,4 @@
-#Python List
+#List in Python:
   
   1)	It is a collection which is ordered and changeable.
   2)	It is used to store different data type values in it.
@@ -11,7 +11,7 @@
   Example:
                  L1  = [‘Varun’,’Dileep’,’Vijay’,’Naresh’, 1 , 2.0 , 3.43] 
 
-        Index Position       0           1           2           3             4       5        6
+        Index Position     0      1        2        3      4    5      6
 
 Above list contains following data type values:
 
