@@ -9,6 +9,7 @@
    Note: An array is collection of same data type values.
 
   Example:
+              
                  L1  = [‘Varun’,’Dileep’,’Vijay’,’Naresh’, 1 , 2.0 , 3.43] 
 
         Index Position     0      1        2        3      4    5      6
